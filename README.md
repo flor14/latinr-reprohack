@@ -15,8 +15,6 @@
 
 ##### :earth\_africa: **LatinR 2020**
 
-<img src="README_files/figure-gfm/unnamed-chunk-2-1.png" width="60%" />
-
 [![Slack](https://img.shields.io/badge/slack-join%20us-brightgreen)](https://reprohack-autoinvite.herokuapp.com/)
 
 -----
