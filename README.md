@@ -1,19 +1,19 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-![](https://github.com/reprohack/reprohack-hq/raw/master/assets/reprohack-banner.png)
+![](https://github.com/flor14/latinr-reprohack/blob/master/reprohack_latinr_banner.png)
 
-# Welcome to the **N8 CIR ‘Northern Tour’ ReproHack series**\!
+# Welcome to the **LatinR ReproHack series**\!
 
 <br>
 
-#### :date: **21 Jan - 12 Mar 2020**
+#### :date: **8 de octubre de 2020**
 
-#### :alarm\_clock: **10:00am-17:00pm**
+#### :alarm\_clock: **10:00am-17:00pm UTC-3**
 
-##### :round\_pushpin: **Multiple locations**
+##### :round\_pushpin: **Evento online**
 
-##### :earth\_africa: **Newcastle, York, Leeds, Sheffield, Manchester**
+##### :earth\_africa: **LatinR 2020**
 
 <img src="README_files/figure-gfm/unnamed-chunk-2-1.png" width="60%" />
 
@@ -23,161 +23,156 @@
 
 <br>
 
-We are all excited by the progress made by many authors to **make their
-papers reproducible by publishing associated code and data**.
+Estamos todos entusiasmados con el progreso realizado por muchos autores para ** hacer su
+artículos reproducibles mediante la publicación de código y datos asociados **.
 
-We know how challenging it can be so we **want to showcase the value of
-the practice**, both for original authors and as a learning experience
-for those who attempt to reproduce the work.
+Sabemos lo desafiante que puede ser, por eso **queremos mostrar el valor de
+la práctica**, tanto para autores originales como como experiencia de aprendizaje
+para quienes intentan reproducir la obra.
 
-It’s imperative to note that **ReproHacks are by no means an attempt to
-criticise or discredit work**. We see reproduction as **beneficial
-scientific activity in itself**, with useful outcomes for authors and
-valuable learning experiences for the participants and the research
-community as a whole.
+Es imperativo tener en cuenta que **ReproHacks no es un intento de
+criticar o desacreditar el trabajo**. Vemos la reproducción como **beneficiosa
+actividad científica en sí misma**, con resultados útiles para los autores y
+valiosas experiencias de aprendizaje para los participantes y la investigación
+comunidad en su conjunto.
 
 -----
 
 ## **Two ways to get involved:**
 
-### **[Nominate a paper](https://forms.gle/vMk25vCevMg2QiYQ9)**
+### **[Nominar un artículo](https://forms.gle/vMk25vCevMg2QiYQ9)**
 
-We invite nominations for papers that have both associated **code** and
-**data** publicly available. We also encourage analyses based on open
-source tools as we cannot guarantee participants will have access to
-specialised licenced software.
+Invitamos nominaciones para trabajos que tengan asociados **código** y
+**datos** disponibles públicamente. También fomentamos los análisis basados en
+herramientas de origen, ya que no podemos garantizar que los participantes tengan acceso a
+software con licencia especializado.
 
-[**Current list of proposed papers and
-projects**](https://sheffield-university.shinyapps.io/n8cir-reprohacks/)
+[**Lista actual de artículos propuestos y
+proyectos**](https://sheffield-university.shinyapps.io/n8cir-reprohacks/)
 
 <br>
 
-Join us at the hack to **dig into exciting science**, learn more about
-**reproducibility**, working with **other people’s code and data** and
-more\!
+Únase a nosotros en el truco para **profundizar en la ciencia emocionante**, aprender más sobre
+**reproducibilidad**, trabajar con **código y datos de otras personas** y
+más\!
 
 -----
 
-## **On the day**
+## **Al día**
 
-### Materials
+### Materiales
 
-  - [**Intro
-    Slides**](https://annakrystalli.me/n8cir-reprohacks/slides/#1)
-    Instructions and links
-  - [**Paper
-    list**](https://sheffield-university.shinyapps.io/n8cir-reprohacks/)
-    List of submitted papers
-  - [**Hackpad**](https://bit.ly/remote-reprohack-hackpad) Event
-    collaborative notebook
-  - [**Feedback form**](https://forms.gle/wvXfjNT7HbkqH2Rj7) Record
-    feedback for authors
+  - [**Introducción Diapositivas**] (https://annakrystalli.me/n8cir-reprohacks/slides/#1)
+    Instrucciones y enlaces
+  - [**Lista de artículos**] (https://sheffield-university.shinyapps.io/n8cir-reprohacks/)
+    Lista de trabajos presentados
+  - Evento [**EtherPad**] (https://bit.ly/remote-reprohack-hackpad)
+    cuaderno colaborativo
+  - [**Formulario de comentarios**] (https://forms.gle/wvXfjNT7HbkqH2Rj7) Registro
+    comentarios para los autores
 
-This is the master repo of the hack. We’ll collect information on the
-teams and projects, track discussions and collaborative notes on the
-event [**hackpad**](https://bit.ly/remote-reprohack-hackpad)
+Este es el repositorio principal del truco. Recopilaremos información sobre el
+equipos y proyectos, realice un seguimiento de las discusiones y notas colaborativas sobre el
+evento [**EtherPad**](https://bit.ly/remote-reprohack-hackpad)
 
-As all ReproHack events, we strive to make this event open and inclusive
-to all. As such the event is governed by the [ReproHack Code of
-Conduct](https://github.com/reprohack/reprohack-hq/blob/master/CODE_OF_CONDUCT.md)
-and you should read it before participating. By participating, you are
-expected to uphold this code.
+Como todos los eventos de ReproHack, nos esforzamos por hacer que este evento sea abierto e inclusivo
+a todos. Como tal, el evento se rige por el [Código ReproHack de
+Conducta](https://github.com/reprohack/reprohack-hq/blob/master/CODE_OF_CONDUCT.md)
+y debes leerlo antes de participar. Al participar, estás
+espera mantener este código.
 
-### **Authors**
+### **Autores**
 
-We encourage authors that are keen, to be available for participants to
-reach out to for guidance or even just to say hello\! You can do so by
-joining the **`review-chat`** channel in our
-[**slack**](https://reprohack-autoinvite.herokuapp.com/) group. We’ve
-also set up an **`authors`** channel in our
-[**slack**](https://reprohack-autoinvite.herokuapp.com/) group as a
-place where you can also reach the organisers prior to the hack. You can
-also start discussions or add comments through our collaborative
+Animamos a los autores interesados a que estén disponibles para que los participantes
+comuníquese con nosotros para recibir orientación o incluso simplemente para saludar. Puedes hacerlo por
+unirse al canal **`review-chat`** en nuestro
+[**holgura**](https://reprohack-autoinvite.herokuapp.com/) grupo. Tenemos
+también configuró un canal de **`autores`** en nuestro
+[**slack**](https://reprohack-autoinvite.herokuapp.com/) grupo como
+lugar donde también puede comunicarse con los organizadores antes del hack. Usted puede
+también inicie discusiones o agregue comentarios a través de nuestra colaboración
 [**hackpad**](https://bit.ly/remote-reprohack-hackpad).
 
-### **Participants**
+### **Participantes**
 
-#### **Introduction & Welcome** [slides](https://annakrystalli.me/n8cir-reprohacks/slides/#1)
+#### **Introducción y bienvenida** [diapositivas](https://annakrystalli.me/n8cir-reprohacks/slides/#1)
 
-#### **1. Paper review and team formation**
+#### **1. Revisión de trabajos y formación de equipos**
 
-We’ll start with a brief review of the [**papers
-proposed**](https://sheffield-university.shinyapps.io/n8cir-reprohacks/)
-and then form into teams. Feel free to work on your own if you prefer
-but we highly recommend you discuss your experiences with fellow
-participants as you work.
+Comenzaremos con una breve revisión de los [**artículos
+propuesto**](https://sheffield-university.shinyapps.io/n8cir-reprohacks/)
+y luego formar equipos. Siéntase libre de trabajar por su cuenta si lo prefiere
+pero le recomendamos encarecidamente que comente sus experiencias con sus compañeros
+participantes mientras trabaja.
 
-#### **2. Select and register a paper**
+#### **2. Seleccione y registre un trabajo**
 
-  - Add your details in the **participants** section of the
-    [**hackpad**](https://bit.ly/remote-reprohack-hackpad) so we have a
-    complete list of participants.
+  - Agregue sus datos en la sección **participantes** del
+    [**EtherPad**](https://etherpad.wikimedia.org/p/reprohack_latinr2020) así que tenemos un
+    lista completa de participantes.
 
-  - In your teams **decide which paper** you wish to work on.
+  - En sus equipos **decidan en qué artículo** desean trabajar.
 
-  - **Register your team and paper** by logging the title of the
-    selected paper and the name(s) of the reviewer(s) in the
-    [**hackpad**](https://bit.ly/remote-reprohack-hackpad). You can use
-    the following template:
+  - **Registre su equipo y su trabajo** registrando el título del
+    artículo seleccionado y el nombre (s) de los revisores en el
+    [**EtherPad**](https://etherpad.wikimedia.org/p/reprohack_latinr2020). Puedes usar
+    la siguiente plantilla:
     
-        ### **Paper:** <Title of the paper reproduced>
-        **Reviewers:** Reviewer 1, Reviewer 2 etc.
+        ### ** Trabajo: ** <Título del artículo reproducido>
+        ** Revisores: ** Revisor 1, Revisor 2, etc.
 
-#### **3. Work on your paper\!**
+#### ** 3. Trabaja en tu papel \! **
 
-Follow any instructions/documentation associated with the papers and try
-and reproduce the work. As you work through your paper, keep in mind the
-main points on which feedback to the authors will provided, **Access**,
-**Reproducibility**, **Documentation** and **Reusability**. It might
-help to have a look at the [feedback
-form](https://forms.gle/wvXfjNT7HbkqH2Rj7) before you begin and keep
-notes during. Feel free to use the event hackpad to record general
-findings you wish to share with the group.
+Siga las instrucciones / documentación asociada con los documentos e intente
+y reproducir la obra. Mientras trabaja en su trabajo, tenga en cuenta
+puntos principales sobre los cuales se proporcionarán comentarios a los autores, **Acceso**,
+**Reproducibilidad**, **Documentación** y **Reutilización**. Que podría
+ayuda a echar un vistazo a los [comentarios
+formulario](https://forms.gle/wvXfjNT7HbkqH2Rj7) antes de comenzar y mantener
+notas durante. Siéntase libre de usar el hackpad de eventos para grabar información general.
+hallazgos que desea compartir con el grupo.
 
-We’ll **come together during the day** to discuss progress and
-troubleshoot any sticking points.
+**Nos reuniremos durante el día** para discutir el progreso y
+solucionar problemas de puntos conflictivos.
 
-Should you finish reproducing your paper quickly, feel free to explore
-the work more deeply. For example, you could try and run additional
-analyses, create new plots or even combine materials with your own or
-other open materials available on the web\!
+Si termina de reproducir su papel rápidamente, no dude en explorar
+el trabajo más profundamente. Por ejemplo, puede intentar ejecutar más
+análisis, cree nuevas parcelas o incluso combine materiales con los suyos propios o
+otros materiales abiertos disponibles en la web \!
 
-You might want to consider attempting to **replicate** the results, for
-example, if the code is in R consider translating the analysis to python
-and examining whether you are getting the same results. Such a
-contribution would be appropriate for publication in the **ReScience C**
-journal\! Have a look at the journals
-[website](http://rescience.github.io/write/) for further details.
+Es posible que desee considerar intentar **replicar** los resultados, por
+ejemplo, si el código está en R, considere traducir el análisis a python
+y examinar si está obteniendo los mismos resultados. Tal
+contribución sería apropiada para su publicación en el **ReScience C**
+diario\! Eche un vistazo a las revistas
+[sitio web](http://rescience.github.io/write/) para obtener más detalles.
 
-Should you produce any additional materials relating to your
-reproduction during the session, we ask that you **share it publicly**
-and **add any links to such materials to the hackpad**.
+Si produce algún material adicional relacionado con su
+reproducción durante la sesión, te pedimos que ** la compartas públicamente **
+y ** agregar enlaces a dichos materiales en el hackpad **.
 
-#### **4. Leave feedback for the authors**
+#### **4. Deja comentarios para los autores**
 
-Please complete the [**Reproducibility feedback
-form**](https://forms.gle/wvXfjNT7HbkqH2Rj7). Please also remember to be
-kind and constructive. Reproducibilty is hard and all authors submitting
-their papers have been incredibly brave. Here’s an
-[example](https://github.com/annakrystalli/write-ups/blob/master/assets/OpenCon_ReproHack%20feedback_form.pdf)
-of feedback to authors.
+Complete los [**comentarios sobre reproducibilidad
+formulario**](https://forms.gle/wvXfjNT7HbkqH2Rj7). Por favor, recuerde también ser
+amable y constructivo. La reproducibilidad es difícil y todos los autores que envían
+sus papeles han sido increíblemente valientes. Aquí hay un
+[ejemplo](https://github.com/annakrystalli/write-ups/blob/master/assets/OpenCon_ReproHack%20feedback_form.pdf)
+de comentarios a los autores.
 
-#### **5. Feedback to the group on your experiences**
+#### **5. Comentarios al grupo sobre sus experiencias**
 
-You can use the hackpad to take notes and summarise your experiences.
+Puede utilizar el hackpad para tomar notas y resumir sus experiencias.
 
-#### **Closing Remarks**
+#### **Comentarios finales**
 
 -----
 
-#### Collaborative note taking:
+#### Toma de notas colaborativa:
 
-Feel free to contribute any additional thoughts on our collaborative
-[**hackpad**](https://bit.ly/remote-reprohack-hackpad). These can help
-form the basis for a blogpost on the
-event.
+No dude en contribuir con cualquier pensamiento adicional sobre nuestra colaboración
+[**EtherPad**](https://bit.ly/remote-reprohack-hackpad). Estos pueden ayudar
+forman la base de una entrada de blog sobre
+evento.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This
-work is licensed under a
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative
-Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> <img alt = "Creative Commons License" style = "border-width: 0" src
