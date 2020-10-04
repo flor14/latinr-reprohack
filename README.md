@@ -79,7 +79,7 @@ Comenzaremos con una breve revisión de los [**artículos propuestos**](https://
         ### ** Trabajo: ** <Título del artículo reproducido>
         ** Revisores: ** Revisor 1, Revisor 2, etc.
 
-#### ** 3. ¡Trabaja en el artículo que seleccionaste! **
+#### **3. ¡Trabaja en el artículo que seleccionaste!**
 
 Siga las instrucciones / documentación asociada con los documentos e intente y reproducir la obra. Mientras trabaja en su trabajo, tenga en cuenta
 puntos principales sobre los cuales se proporcionarán comentarios a los autores, **Acceso**, **Reproducibilidad**, **Documentación** y **Reutilización**. Que podría ayuda a echar un vistazo a los [comentarios formulario](https://forms.gle/wvXfjNT7HbkqH2Rj7) antes de comenzar y mantener notas durante. Siéntase libre de usar el hackpad de eventos para grabar información general. hallazgos que desea compartir con el grupo.
