@@ -76,8 +76,8 @@ Comenzaremos con una breve revisión de los [**artículos propuestos**](https://
 
   - **Registre su equipo y su trabajo** registrando el título del artículo seleccionado y el nombre(s) de los revisores en el [**EtherPad**](https://etherpad.wikimedia.org/p/reprohack_latinr2020). Puedes usar la siguiente plantilla:
     
-        ### ** Trabajo: ** <Título del artículo reproducido>
-        ** Revisores: ** Revisor 1, Revisor 2, etc.
+        **Trabajo:** <Título del artículo reproducido>
+        **Revisores:** Revisor 1, Revisor 2, etc.
 
 #### **3. ¡Trabaja en el artículo que seleccionaste!**
 
