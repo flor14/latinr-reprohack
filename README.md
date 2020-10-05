@@ -7,13 +7,9 @@
 
 <br>
 
-#### :date: **8 de octubre de 2020**
+#### :date: **8 de octubre de 2020** - :alarm\_clock: **10:00am-17:00pm UTC-3** - 
 
-#### :alarm\_clock: **10:00am-17:00pm UTC-3**
-
-##### :round\_pushpin: **Evento online**
-
-##### :earth\_africa: **LatinR 2020**
+##### :round\_pushpin: **Evento online** - :earth\_africa: **LatinR 2020**
 
 [![Slack](https://img.shields.io/badge/slack-join%20us-brightgreen)](https://reprohack-autoinvite.herokuapp.com/)
 
