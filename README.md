@@ -27,7 +27,7 @@ herramientas de origen, ya que no podemos garantizar que los participantes tenga
 
 [**Lista actual de artículos propuestos**](https://sheffield-university.shinyapps.io/n8cir-reprohacks/)
 
-
+![](https://github.com/flor14/latinr-reprohack/blob/master/latinr.png)
 -----
 
 ## **El evento**
