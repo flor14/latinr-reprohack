@@ -34,7 +34,7 @@ herramientas de origen, ya que no podemos garantizar que los participantes tenga
 
 ### Materiales
 
-  - [**Introducción Diapositivas**](https://annakrystalli.me/n8cir-reprohacks/slides/#1)
+  - [**Introducción Diapositivas**](https://flor14.github.io/latinr-reprohack/docs/index.html#1)
     Instrucciones y enlaces
   - [**Lista de artículos**](https://sheffield-university.shinyapps.io/latinr2020-reprohack/)
     Lista de trabajos postulados por sus autores
@@ -51,7 +51,7 @@ Animamos a los autores interesados a estar en contacto. Pueden hacerlo por unirs
 
 ### **Participantes**
 
-#### **Introducción y bienvenida** [diapositivas](https://annakrystalli.me/n8cir-reprohacks/slides/#1)
+#### **Introducción y bienvenida** [diapositivas](https://flor14.github.io/latinr-reprohack/docs/index.html#1)
 
 #### **1. Revisión de trabajos y formación de equipos**
 
