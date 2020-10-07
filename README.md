@@ -1,181 +1,97 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-![](https://github.com/reprohack/reprohack-hq/raw/master/assets/reprohack-banner.png)
+![](https://github.com/flor14/latinr-reprohack/blob/master/reprohack_latinr_banner.png)
 
-# Welcome to the **N8 CIR ‘Northern Tour’ ReproHack series**\!
-
-<br>
-
-#### :date: **21 Jan - 12 Mar 2020**
-
-#### :alarm\_clock: **10:00am-17:00pm**
-
-##### :round\_pushpin: **Multiple locations**
-
-##### :earth\_africa: **Newcastle, York, Leeds, Sheffield, Manchester**
-
-<img src="README_files/figure-gfm/unnamed-chunk-2-1.png" width="60%" />
+# **ReproHack en LatinR 2020**\!
 
 [![Slack](https://img.shields.io/badge/slack-join%20us-brightgreen)](https://reprohack-autoinvite.herokuapp.com/)
-
------
-
 <br>
 
-We are all excited by the progress made by many authors to **make their
-papers reproducible by publishing associated code and data**.
-
-We know how challenging it can be so we **want to showcase the value of
-the practice**, both for original authors and as a learning experience
-for those who attempt to reproduce the work.
-
-It’s imperative to note that **ReproHacks are by no means an attempt to
-criticise or discredit work**. We see reproduction as **beneficial
-scientific activity in itself**, with useful outcomes for authors and
-valuable learning experiences for the participants and the research
-community as a whole.
+#### :date: **8 de octubre de 2020** - :alarm\_clock: **10:00am-17:00pm UTC-3** - :round\_pushpin: **Evento online** - :earth\_africa: **LatinR 2020**
 
 -----
 
-## **Two ways to get involved:**
-
-### **[Nominate a paper](https://forms.gle/vMk25vCevMg2QiYQ9)**
-
-We invite nominations for papers that have both associated **code** and
-**data** publicly available. We also encourage analyses based on open
-source tools as we cannot guarantee participants will have access to
-specialised licenced software.
-
-[**Current list of proposed papers and
-projects**](https://sheffield-university.shinyapps.io/n8cir-reprohacks/)
-
-<br>
-
-Join us at the hack to **dig into exciting science**, learn more about
-**reproducibility**, working with **other people’s code and data** and
-more\!
+Muchos autores realizan el esfuerzo de **dejar sus artículos reproducibles mediante la publicación de código y datos asociados**. Sabemos lo desafiante que puede ser, por eso **queremos mostrar el valor de la práctica** y brindar una experiencia de aprendizaje para quienes intentan reproducir el artículo científico en cuestión.
+Hay que tener en cuenta que **ReproHack no busca criticar o desacreditar el trabajo de los autores**. Vemos la reproducción como **beneficiosa
+actividad científica en sí misma**, dando devoluciones útiles para los autores y valiosas experiencias de aprendizaje para los participantes y comunidad de investigación en su conjunto.
 
 -----
 
-## **On the day**
+## **Dos maneras de involucrarse:**
 
-### Materials
+### **[Proponer tu artículo](https://forms.gle/vMk25vCevMg2QiYQ9)**
 
-  - [**Intro
-    Slides**](https://annakrystalli.me/n8cir-reprohacks/slides/#1)
-    Instructions and links
-  - [**Paper
-    list**](https://sheffield-university.shinyapps.io/n8cir-reprohacks/)
-    List of submitted papers
-  - [**Hackpad**](https://bit.ly/remote-reprohack-hackpad) Event
-    collaborative notebook
-  - [**Feedback form**](https://forms.gle/wvXfjNT7HbkqH2Rj7) Record
-    feedback for authors
+Invitamos a que propongas tu trabajo si has dejado **código** y **datos** disponibles públicamente. También fomentamos los análisis basados en
+herramientas de origen, ya que no podemos garantizar que los participantes tengan acceso a software con licencia especializado.
 
-This is the master repo of the hack. We’ll collect information on the
-teams and projects, track discussions and collaborative notes on the
-event [**hackpad**](https://bit.ly/remote-reprohack-hackpad)
+[**Lista actual de artículos propuestos**](https://sheffield-university.shinyapps.io/n8cir-reprohacks/)
 
-As all ReproHack events, we strive to make this event open and inclusive
-to all. As such the event is governed by the [ReproHack Code of
-Conduct](https://github.com/reprohack/reprohack-hq/blob/master/CODE_OF_CONDUCT.md)
-and you should read it before participating. By participating, you are
-expected to uphold this code.
+![](https://github.com/flor14/latinr-reprohack/blob/master/latinr.png)
+-----
 
-### **Authors**
+## **El evento**
 
-We encourage authors that are keen, to be available for participants to
-reach out to for guidance or even just to say hello\! You can do so by
-joining the **`review-chat`** channel in our
-[**slack**](https://reprohack-autoinvite.herokuapp.com/) group. We’ve
-also set up an **`authors`** channel in our
-[**slack**](https://reprohack-autoinvite.herokuapp.com/) group as a
-place where you can also reach the organisers prior to the hack. You can
-also start discussions or add comments through our collaborative
-[**hackpad**](https://bit.ly/remote-reprohack-hackpad).
+### Materiales
 
-### **Participants**
+  - [**Introducción Diapositivas**](https://flor14.github.io/latinr-reprohack/docs/index.html#1)
+    Instrucciones y enlaces
+  - [**Lista de artículos**](https://sheffield-university.shinyapps.io/latinr2020-reprohack/)
+    Lista de trabajos postulados por sus autores
+  - [**EtherPad**](https://etherpad.wikimedia.org/p/reprohack_latinr2020)
+    Cuaderno colaborativo para el día del evento
+  - [**Formulario de comentarios**](https://forms.gle/b8TvEMxeeUY9gDFz7) 
+    Registro comentarios para los autores
 
-#### **Introduction & Welcome** [slides](https://annakrystalli.me/n8cir-reprohacks/slides/#1)
+Nos esforzamos por hacer que este evento sea abierto e inclusivo. Como tal, el evento se rige por el [Código de Conducta](https://github.com/reprohack/reprohack-hq/blob/master/CODE_OF_CONDUCT.md) y debes leerlo antes de participar. Al participar, asumiremos que aceptas nuestro CoC. 
 
-#### **1. Paper review and team formation**
+### **Autores**
 
-We’ll start with a brief review of the [**papers
-proposed**](https://sheffield-university.shinyapps.io/n8cir-reprohacks/)
-and then form into teams. Feel free to work on your own if you prefer
-but we highly recommend you discuss your experiences with fellow
-participants as you work.
+Animamos a los autores interesados a estar en contacto. Pueden hacerlo por unirse al canal **`review-chat`** en nuestro [**Slack**](https://reprohack-autoinvite.herokuapp.com/). 
 
-#### **2. Select and register a paper**
+### **Participantes**
 
-  - Add your details in the **participants** section of the
-    [**hackpad**](https://bit.ly/remote-reprohack-hackpad) so we have a
-    complete list of participants.
+#### **Introducción y bienvenida** [diapositivas](https://flor14.github.io/latinr-reprohack/docs/index.html#1)
 
-  - In your teams **decide which paper** you wish to work on.
+#### **1. Revisión de trabajos y formación de equipos**
 
-  - **Register your team and paper** by logging the title of the
-    selected paper and the name(s) of the reviewer(s) in the
-    [**hackpad**](https://bit.ly/remote-reprohack-hackpad). You can use
-    the following template:
+Comenzaremos con una breve revisión de los [**artículos propuestos**](https://sheffield-university.shinyapps.io/latinr2020-reprohack/) y luego formar equipos. Siéntase libre de trabajar por su cuenta si lo prefiere.
+
+#### **2. Seleccione y registre un trabajo**
+
+  - Agregue sus datos en la sección **participantes** del [**EtherPad**](https://etherpad.wikimedia.org/p/reprohack_latinr2020) así tenemos un
+    lista completa de participantes.
+
+  - **Decida/n en qué artículo** desean trabajar.
+
+  - **Registre su equipo y el artículo elegido** registrando el título del artículo seleccionado y el nombre(s) de los revisores en el [**EtherPad**](https://etherpad.wikimedia.org/p/reprohack_latinr2020). Puedes usar la siguiente plantilla:
     
-        ### **Paper:** <Title of the paper reproduced>
-        **Reviewers:** Reviewer 1, Reviewer 2 etc.
+        **Trabajo:** <Título del artículo reproducido>
+        **Revisores:** Revisor 1, Revisor 2, etc.
 
-#### **3. Work on your paper\!**
+#### **3. ¡Trabaja en el artículo que seleccionaste!**
 
-Follow any instructions/documentation associated with the papers and try
-and reproduce the work. As you work through your paper, keep in mind the
-main points on which feedback to the authors will provided, **Access**,
-**Reproducibility**, **Documentation** and **Reusability**. It might
-help to have a look at the [feedback
-form](https://forms.gle/wvXfjNT7HbkqH2Rj7) before you begin and keep
-notes during. Feel free to use the event hackpad to record general
-findings you wish to share with the group.
+Sigue las instrucciones/documentación asociada a tu artículo e intenta reproducir el trabajo. Tenga en cuenta los puntos principales sobre los cuales se proporcionarán comentarios a los autores caracterizando el artículo de acuerdo a: **Acceso**, **Reproducibilidad**, **Documentación** y **Reutilización**. Tal vez te serviría consultar el [formulario de comentarios a los autores](https://forms.gle/b8TvEMxeeUY9gDFz7) antes de comenzar. Sientete libre de usar el etherpad para compartir información general o hallazgos que desea compartir con el grupo.
 
-We’ll **come together during the day** to discuss progress and
-troubleshoot any sticking points.
+**Nos reuniremos durante el día** para discutir el progreso y discutir puntos conflictivos.
 
-Should you finish reproducing your paper quickly, feel free to explore
-the work more deeply. For example, you could try and run additional
-analyses, create new plots or even combine materials with your own or
-other open materials available on the web\!
+#### **4. Deja comentarios para los autores**
 
-You might want to consider attempting to **replicate** the results, for
-example, if the code is in R consider translating the analysis to python
-and examining whether you are getting the same results. Such a
-contribution would be appropriate for publication in the **ReScience C**
-journal\! Have a look at the journals
-[website](http://rescience.github.io/write/) for further details.
+Complete el [**Formulario de comentarios para los autores**](https://forms.gle/wvXfjNT7HbkqH2Rj7). Por favor, sea 
+amable y constructivo con sus comentarios. La reproducibilidad es difícil y todos los autores que envían sus artículos han sido muy valientes por hacerlo. Aquí hay un [ejemplo](https://github.com/annakrystalli/write-ups/blob/master/assets/OpenCon_ReproHack%20feedback_form.pdf) de comentarios a los autores.
 
-Should you produce any additional materials relating to your
-reproduction during the session, we ask that you **share it publicly**
-and **add any links to such materials to the hackpad**.
+#### **5. Comentarios al grupo sobre sus experiencias**
 
-#### **4. Leave feedback for the authors**
+Puede utilizar el etherpad para tomar notas y resumir sus experiencias.
 
-Please complete the [**Reproducibility feedback
-form**](https://forms.gle/wvXfjNT7HbkqH2Rj7). Please also remember to be
-kind and constructive. Reproducibilty is hard and all authors submitting
-their papers have been incredibly brave. Here’s an
-[example](https://github.com/annakrystalli/write-ups/blob/master/assets/OpenCon_ReproHack%20feedback_form.pdf)
-of feedback to authors.
-
-#### **5. Feedback to the group on your experiences**
-
-You can use the hackpad to take notes and summarise your experiences.
-
-#### **Closing Remarks**
+#### **Comentarios finales**
 
 -----
 
-#### Collaborative note taking:
+#### Toma de notas colaborativa:
 
-Feel free to contribute any additional thoughts on our collaborative
-[**hackpad**](https://bit.ly/remote-reprohack-hackpad). These can help
-form the basis for a blogpost on the
-event.
+No dude en contribuir con cualquier comentario adicional sobre nuestra colaboración [**EtherPad**](https://etherpad.wikimedia.org/p/reprohack_latinr2020). Estos pueden ayudar a generar un blogpost del evento.
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This
 work is licensed under a
