@@ -313,19 +313,19 @@ knitr::include_graphics("assets/1728_TURI_Book sprint_7 community_040619.jpg")
 
 --
 .pull-right[
-### Consideraciones adicionales
+### Consideraciones adicionales 📝
 
-- #### La reproducibilidad es difícil de alcanzar ¡Los autores que envian sus trabajos son muy valientes! 💪
+- #### La reproducibilidad es difícil de alcanzar ¡Los autores que envian sus trabajos son muy valientes! 
 
 ### ¡Gracias autores! `r emo::ji("raised_hands")` 
 - #### Sin ellos no habría ReproHack. Agradecemos y apreciamos sus esfuerzos. `r emo::ji("pray")` 
-- #### Sólo critica constructiva, por favor 🙂
+- #### Sólo critica constructiva, por favor 
 
 ]
 ---
 class: inverse, center, middle
 
-# `r emo::ji("mag")` Revisando y reproduciendo 📝
+# `r emo::ji("mag")` Revisando y reproduciendo 
 
 
 ```{r, echo=FALSE, out.width="70%"}
@@ -422,7 +422,7 @@ knitr::include_graphics("assets/FAIRPrinciples.jpg")
 
 .pull-left[
 
-# Accesibilidad ✔️
+# Accesibilidad 
 
 - ¿Cuán **fácil** fue **acceder** a los materiales?
 
@@ -434,7 +434,7 @@ knitr::include_graphics("assets/FAIRPrinciples.jpg")
 
 .pull-right[
 
-# Instalación ✔️
+# Instalación 
 
 - ¿Cuán **fácil / automática** fue la **instalación**?
 
@@ -448,7 +448,7 @@ knitr::include_graphics("assets/FAIRPrinciples.jpg")
 .pull-left[
 
 
-# Datos ✔️
+# Datos 
 
 - ¿Estaban los **datos claramente separados del código y otros items**?
 
@@ -462,7 +462,7 @@ knitr::include_graphics("assets/FAIRPrinciples.jpg")
 
 .pull-right[
 
-# Documentación ✔️
+# Documentación 
 
 ¿Había **suficiente documentación** describiendo:
 - ¿Cómo **instalar** el software necesario incluyendo dependencias no-estándar?
@@ -477,7 +477,7 @@ knitr::include_graphics("assets/FAIRPrinciples.jpg")
 
 .pull-left[
 
-# Análisis ✔️
+# Análisis 
 
 - **¿Te fue posible reproducir completamente** el artículo? `r emo::ji("white_check_mark")`
 
