@@ -25,17 +25,14 @@ style_duo_accent(primary_color = "#117660", secondary_color = "#e2e0ea",
   title_slide_text_color = "white",
   background_color = "white",
   black_color = "#117660",
-  title_slide_background_image = "assets/reprohack_back_slide.png"
+  title_slide_background_image = "assets/reprohack_back_slide.png",
+  text_font_size = "1rem"
 )
 ```
 
 ```{r share-again, echo=FALSE}
 xaringanExtra::use_share_again()
 ```
-
-
-
----
 
 class: inverse
 ## ¡Les damos la bienvenida a ReproHack en LatinR 2020!
@@ -44,21 +41,13 @@ class: inverse
 
 ***
 
-### Etherpad del evento: 
+### Etherpad 📝 del evento: 
 ### [https://bit.ly/reprohack_latinr2020](bit.ly/reprohack_latinr2020)
 
 Este link contiene toda la información al evento y materiales
 
 
----
 
-class: inverse
-## Nos comunicamos con `r emo::ji("right_arrow")`   [etherpad](https://etherpad.wikimedia.org/p/reprohack_latinr2020) 
-
-
-```{r, echo=FALSE, out.width="90%"}
-knitr::include_graphics("assets/etherpad.png")
-```
 
 
 ---
@@ -97,9 +86,13 @@ knitr::include_graphics("assets/hack6.png")
 
 ---
 
-class: inverse, center, middle
+class: inverse
+## Nos comunicamos con `r emo::ji("right_arrow")`  [Etherpad 📝](https://etherpad.wikimedia.org/p/reprohack_latinr2020) 
 
-# Demo 
+
+```{r, echo=FALSE, out.width="90%"}
+knitr::include_graphics("assets/etherpad.png")
+```
 
 
 
@@ -113,28 +106,21 @@ class: inverse, center, middle
 ### Mañana
 
 **10:00 Bienvenida**
-- Presentación de la plataforma Blackboard Collaborate
+- Plataforma Blackboard Collaborate
 - Rompiendo el hielo (Separación en grupos para presentaciones)
-
---
 
 **10:20 `r emo::ji("loudspeaker")` Daniela Ballari** ***¿Por qué es importante la reproducibilidad computacional?*** 
 
 --
+**10:40 ♻️ Consejos para revisar artículos - Florencia D'Andrea** ***(Charla del equipo de la hackatón)***
 
-**10:40 ♻️ Consejos para revisar artículos - Florencia D'Andrea** ***Charla por parte del equipo de la hackatón***
-
-
---
-
-***11:00 Reprohack***
-- Revisar la lista, formar grupos, seleccionar trabajos (salas de reuniones)
+**11:00 ReproHack I**
+- Revisar la lista, formar grupos, seleccionar trabajos 
 - Pausa de café
-- Trabajar en artículos
+- Comentario a los autores
 
---
 
-**12:00 Nos reagrupamos - una persona de cada grupo nos cuenta un poco su experiencia.**
+**12:00 Nos reagrupamos - una persona de cada grupo nos cuenta su experiencia.**
 
 ---
 
@@ -144,7 +130,7 @@ class: inverse, center, middle
 
 **12:30 PAUSA PARA ALMUERZO**
 
-**13:30 `r emo::ji("loudspeaker")` Francisco Rodríguez Sánchez -** ***Cómo escribir manuscritos reproducibles***
+**13:30 `r emo::ji("loudspeaker")` Francisco Rodríguez-Sánchez -** ***Cómo escribir manuscritos reproducibles***
 
 
 
@@ -152,32 +138,34 @@ class: inverse, center, middle
 
 ### Tarde
 
-***13:50  Reprohack***
-- Trabajamos en los artículos (break-out rooms)
-- 14:45 COFFEE BREAK `r emo::ji("house")` `r emo::ji("coffee")`
-- Completar el formulario con comentarios a los autores.
+***13:50 ReproHack II***
+- Revisar la lista, formar grupos, seleccionar trabajos 
+- Pausa para un café `r emo::ji("house")` `r emo::ji("coffee")`
+- Comentarios a los autores
 
-**15:45 Nos reagrupamos - una persona de cada grupo nos cuenta un poco su experiencia.**
+**15:45 Nos reagrupamos - una persona de cada grupo nos cuenta su experiencia.**
+
+--
 
 **16:00 `r emo::ji("loudspeaker")` Pablo Bernabeu** ***Reproducibilidad en torno a una aplicación web***
 
 **16:30 `r emo::ji("loudspeaker")` ROpenSci** 
+
 ***Revisar paquetes para una mejor ciencia - Maëlle Salmon*** 
+
 ***La travesía de taxlist en ROpenSci -  Miguel Alvarez* ***
 
 **16:50 Cierre**
 
-
-
-
 ---
+
 class: inverse
 
-# ¿Dónde estamos?
+# ¿Dónde estamos? 📍
 
 ***
 
-## Blackboard Collaborate
+## Blackboard Collaborate 
 
 ---
 
@@ -199,10 +187,6 @@ knitr::include_graphics("assets/BCsalas.png")
 ---
 class: inverse
 
-## ¡Hola de vuelta! 👋
-
-***
-
 # Rompiendo el hielo 🧊: Presentaciones
 
 <!-- Use this section as an ice-breaker. Introduce yourself, then allow others to 
@@ -218,47 +202,51 @@ go around the room and introduce themselves too -->
 > 
 > - Investigadora postdoctoral _INTA-CONICET_
 >
-> - Chair 2020 _LatinR_
+> - Chair _LatinR 2020_
 >
-> - Instructora certificada  _RStudio_ 
+> - Instructora certificada  _RStudio y The Carpentries_ 
 >
 > - Parte del equipo global _R-Ladies_
 
 
 ---
 
-## ¿Por qué estoy aquí?
+## ¿Por qué estoy aquí? 📍
 
-> Creo que hay mucho que aprender sobre la reproducibilidad al trabajar con materiales de otras personas y al interactuar con datos y códigos de investigación reales publicados.
+> Trate de dejar mi código disponible y me dí cuenta que hay varias cosas que tener en cuenta que nadie te enseña. 
+
+--
+
+> Trabajar con materiales de otras personas e interactuar con datos y códigos de investigación reales publicados es una buena forma de aprender sobre reproducibilidad.
 
 ---
 
 ## ¿Quién es mi personaje de ficción preferido?
 
-> Stitch!
+> Bob Esponja
 >
-> ![](https://media3.giphy.com/media/95MU6SEzeLnUc/giphy.gif?cid=790b76115d11033236595055776d483b&rid=giphy.gif)
+> ![](https://media.giphy.com/media/bpGYPOl9xygrm/giphy.gif)
 
 
 ---
 
 # ¡Ahora presentemos al equipo!
 
-**LatinR**
+### LatinR
 
-Juliana Benitez
+**Juliana Benitez**
 
-Priscilla Minotti
+**Priscila Minotti**
 
-Roxana Villafañe (redes)
+**Roxana Villafañe** 
 
-**ReproHack**
+### ReproHack
 
-Anna Krystalli
+**Anna Krystalli**
 
-David Peréz-Sánchez
+**David Peréz-Sánchez**
 
-Daniela Gawehns (twitter)
+**Daniela Gawehns (twitter)**
 
 
 ---
@@ -294,11 +282,11 @@ class: inverse
 
 ***
 
-# Consejos para reproducir un artículo científico
+# Consejos para reproducir un artículo científico 📝
 
 ---
 
-## Objetivos de ReproHack
+## Objetivos de ReproHack 🎯
 
 1. **Experiencia práctica en reproducibilidad**
 
@@ -312,9 +300,9 @@ class: inverse
 
 .pull-left[
 
-## Codigo de conducta
+## Código de conducta
 
-Este evento se encuentra bajo los lineamientos de un código de conducta **Codigo de conducta ReproHack** [bit.ly/reprohack-coc](https://bit.ly/reprohack-coc)
+Este evento se encuentra bajo los lineamientos de un código de conducta **Código de conducta ReproHack** [bit.ly/reprohack-coc](https://bit.ly/reprohack-coc)
 
 ```{r, echo=FALSE}
 knitr::include_graphics("assets/1728_TURI_Book sprint_7 community_040619.jpg")
@@ -325,22 +313,19 @@ knitr::include_graphics("assets/1728_TURI_Book sprint_7 community_040619.jpg")
 
 --
 .pull-right[
-### Consideraciones adicioneales
+### Consideraciones adicionales
 
-- #### La reproducibilidad es dificil de alcanzar
-- #### ¡Los autores que envian sus trabajos son muy valientes!
+- #### La reproducibilidad es difícil de alcanzar ¡Los autores que envian sus trabajos son muy valientes! 💪
 
 ### ¡Gracias autores! `r emo::ji("raised_hands")` 
-
-- #### Sin ellos no habría ReproHack.
-- #### Realmente agradecemos y apreciamos sus esfuerzos. `r emo::ji("pray")` 
-- #### Sólo critica constructiva, por favor
+- #### Sin ellos no habría ReproHack. Agradecemos y apreciamos sus esfuerzos. `r emo::ji("pray")` 
+- #### Sólo critica constructiva, por favor 🙂
 
 ]
 ---
 class: inverse, center, middle
 
-# `r emo::ji("mag")` Revisando y reproduciendo
+# `r emo::ji("mag")` Revisando y reproduciendo 📝
 
 
 ```{r, echo=FALSE, out.width="70%"}
@@ -354,22 +339,22 @@ knitr::include_graphics("assets/Hackathon.jpg")
 .pull-left[
 - **Información brindada por los autores:**
 
-  - Lenguajes / herramientas empleadas
+  - Lenguajes / herramientas empleadas ✔️
   
-  - Por qué deberías intentar reproducir este artículo.
+  - Te cuentan por qué deberías intentar reproducir su artículo. ✔️
   
 - **Número de intentos `r icon::fa('recycle')`** Número de veces que se intentó reproducir el artículo
 
-- **Mean Repro Score `r icon::fa('check-circle')`** Puntaje medio de reproducibilidad (de un máximo de 10)
+- **Mean Repro Score `r icon::fa('check-circle')`** Puntaje medio de reproducibilidad (de un máximo de 10) 
 
-    - menor puntaje == ¡más dificil de reproducir!
+    - menor puntaje == ¡más difícil de reproducir!
 
 ]
 
 
 .pull-right[
 ```{r, echo=FALSE}
-knitr::include_graphics("assets/ReprohackPickPapers.jpg")
+knitr::include_graphics("assets/panel.png")
 ```
 ]
 
@@ -405,7 +390,7 @@ class: inverse, center, middle
 
 --
 
-#### ** ¡Tan poco tan así 🧐!**
+#### **¡Tan poco tan así 🧐!**
 
 ```{r, echo=FALSE, out.width="60%"}
 knitr::include_graphics("https://www.reactiongifs.com/r/O_o.gif")
@@ -423,16 +408,7 @@ knitr::include_graphics("assets/FAIRPrinciples.jpg")
 
 ---
 
-## Principios FAIR 
-
-Los principios FAIR se refieren a tres tipos de entidades: 
-- **datos** (como cualquier objeto digital), 
-- **metadatos** (información sobre ese objeto digital) 
-- **infraestructura** (como software, repositorios).
-
----
-
-## Principios FAIR 
+## Principios FAIR (en español)
 
 - #### Localizables
 
@@ -442,12 +418,11 @@ Los principios FAIR se refieren a tres tipos de entidades:
 
 - #### Reutilizables
 
-
 ---
 
 .pull-left[
 
-# Accesibilidad
+# Accesibilidad ✔️
 
 - ¿Cuán **fácil** fue **acceder** a los materiales?
 
@@ -459,7 +434,7 @@ Los principios FAIR se refieren a tres tipos de entidades:
 
 .pull-right[
 
-# Instalación
+# Instalación ✔️
 
 - ¿Cuán **fácil / automática** fue la **instalación**?
 
@@ -473,7 +448,7 @@ Los principios FAIR se refieren a tres tipos de entidades:
 .pull-left[
 
 
-# Datos
+# Datos ✔️
 
 - ¿Estaban los **datos claramente separados del código y otros items**?
 
@@ -487,7 +462,7 @@ Los principios FAIR se refieren a tres tipos de entidades:
 
 .pull-right[
 
-# Documentación
+# Documentación ✔️
 
 ¿Había **suficiente documentación** describiendo:
 - ¿Cómo **instalar** el software necesario incluyendo dependencias no-estándar?
@@ -502,7 +477,7 @@ Los principios FAIR se refieren a tres tipos de entidades:
 
 .pull-left[
 
-# Análisis
+# Análisis ✔️
 
 - **¿Te fue posible reproducir completamente** el artículo? `r emo::ji("white_check_mark")`
 
@@ -516,12 +491,13 @@ Los principios FAIR se refieren a tres tipos de entidades:
 
 .pull-right[
 
-### Si el análisis no fue completamente reproducible `r emo::ji("no_entry_sign")`
+### Si el análisis no fue completamente reproducible `r emo::ji("no_entry_sign")` 😑
+
  - **¿Faltaban dependencias?**
  
  - ¿No estaba el **entorno computacional no adecuadamente descripto** / capturado?
  
- - ¿Había **bugs/errores** en el código?
+ - ¿Había **bugs** en el código? 🐛
  
  -  ¿Se ejecutó **código pero los resultados (por ejemplo, salidas de modelos, tablas, figuras) difieren** de los publicados? ¿Por cuánto? 
 ]
@@ -561,7 +537,7 @@ knitr::include_graphics("https://media.giphy.com/media/9K2nFglCAQClO/source.gif"
 ---
 ## Revisa como un usuario/a `r emo::ji("video_game")`
 
-#### ¿Qué te pareció fácil / intuitivo?
+#### ¿Qué te pareció fácil/intuitivo? ✔️
 
 > ¿La estructura y el nombre de los archivos fueron informativos / intuitivos?
 
@@ -570,12 +546,12 @@ knitr::include_graphics("https://media.giphy.com/media/9K2nFglCAQClO/source.gif"
 > ¿Faltaba documentación o era confusa?
 
 
-#### ¿Qué te pareció confuso / difícil?
+#### ¿Qué te pareció confuso/difícil? 🤔
 > Identificar puntos de presión. ¿Sugerencias constructivas?
 
 
 
-#### ¿Qué te gustó?
+#### ¿Qué te gustó? 💯 
 > Identifique los aspectos que funcionaron bien.
 
 ---
@@ -592,11 +568,11 @@ class: inverse, center, middle
 
 .pull-left[
 
-#### Reconocer el esfuerzo del autor
+#### Reconocer el esfuerzo del autor 
 
 #### Envía comentarios constructivos
 
-#### Centrarse en los beneficios para la comunidad.
+#### Enfocate en los beneficios para la comunidad
 
 ```{r, echo=FALSE, out.width="80%"}
 knitr::include_graphics("assets/1728_TURI_Book sprint_11 community_040619.jpg")
@@ -605,7 +581,7 @@ knitr::include_graphics("assets/1728_TURI_Book sprint_11 community_040619.jpg")
 ]
 .pull-right[
 
-> #### Ayuda a crear una convención sobre lo que debería ser un Compendio de Investigación (_research compendium_) y cómo deberíamos poder utilizarlo_
+> #### Ayuda a crear una convención sobre lo que debería ser un Compendio de Investigación (_research compendium_) y cómo deberíamos poder utilizarlo
 
 ```{r, echo=FALSE, out.width="80%"}
 knitr::include_graphics("assets/ResearchCompendium.jpg")
@@ -616,11 +592,11 @@ knitr::include_graphics("assets/ResearchCompendium.jpg")
 ---
 class: inverse, center, middle
 
-# Actividades adicionales
+# Actividades adicionales ➕
 
 ---
 
-## ¿Terminaste temprano?
+## ¿Terminaste temprano? ⏲️
 
 ### Explora el trabajo más profundamente:
 
@@ -633,24 +609,26 @@ class: inverse, center, middle
 ---
 
 
-### Pautas de participación
+### Pautas de participación 🤝
 
 --
 
-#### Durante las charlas y cuando armamos grupos para compartir experiencias en la sala principal
-- Permanezca en silencio hasta que se le invite a hablar.
-- Agregar preguntas para los oradores en el etherpad
+#### Compartiendo nuestra experiencia en la sala principal durante las 📢 charlas o momentos de reagrupamiento 
+
+- Por favor, permanece en silencio hasta que se le invite a hablar.
+- Agrega preguntas para los oradores en el Etherpad. 
 
 --
 
-#### Durante el los momentos de hackatón 
+#### Durante el los momentos de hackatón 🙌
 - Te animamos a participar tanto como sea posible.
 - No dudes en silenciar, apagar la cámara y desconectar si es necesario.
 
 --
 
 - Siéntete libre de moverte e ir a saludar o ayudar en otros grupos 👋.
-- Fomentamos las discusiones en las salas para grupos pequeños, pero tenga en cuenta que los demás intentan trabajar. La **sala principal** y la **cafetería** siempre están disponibles para pasar el rato.
+
+- Fomentamos las discusiones en las salas. Tenga en cuenta que los demás intentan trabajar 👉 La **sala principal** y la **cafetería** siempre están disponibles para pasar el rato.
 
 ---
 
@@ -658,8 +636,8 @@ class: inverse, center, middle
 ### Pautas de participación 🙌
 
 ### En cualquier momento
-- Siéntase libre de agregar **notas colaborativas** en el etherpad
-- Contacte a cualquier persona del equipo en el chat
+- Siéntase libre de agregar **notas colaborativas** en el Etherpad ✍️
+- Contacte a cualquier persona del equipo de la hackatón en el chat
 
 ---
 class: inverse
@@ -670,13 +648,13 @@ class: inverse
 
 ### `r emo::ji("mag_right")` Lista de artículos
 
-+ Eche un vistazo a los artículos disponibles para reproducción
+✅  Elige un artículo de nuestra lista
 
 ### `r emo::ji("busts_in_silhouette")` Formación de equipos / registro de proyectos
 
-+ Esta bien trabajar individualmente
-+ Agrega tus datos al [** Etherpad: bit.ly/reprohack_latinr2020**](https://etherpad.wikimedia.org/p/reprohack_latinr2020).
-+ Registra tu equipo y escribe en el [** Etherpad: bit.ly/reprohack_latinr2020**](https://etherpad.wikimedia.org/p/reprohack_latinr2020).
+✅  Esta bien trabajar individualmente
+✅  Agrega tus datos al [** Etherpad: bit.ly/reprohack_latinr2020**](https://etherpad.wikimedia.org/p/reprohack_latinr2020).
+✅  Registra tu equipo y escribe en el [** Etherpad: bit.ly/reprohack_latinr2020**](https://etherpad.wikimedia.org/p/reprohack_latinr2020).
 
 ### `r emo::ji("house")``r emo::ji("coffee")`¡Toma un descanso!
 
@@ -684,16 +662,15 @@ class: inverse
 class: inverse
 
 ## 11:15 - 12:00 `r emo::ji("computer")` ReproHack I 
-### (break-out rooms) 
+### (salas / break-out rooms) 
 
-Trabaja en tus artículos de manera colaborativa si así lo deseas. 
-Busque ayuda fuera del grupo a través del chat principal. 
-Siéntase libre de cambiar de grupo o pasar el rato en la **sala principal** o **cafetería**
+👉 Puedes elegir una sala y trabajar en grupo. 
+👉 Buscar ayuda en el chat principal. 
+👉 Siéntase libre de cambiar de grupo o pasar el rato en la **sala principal** o **cafetería**
 
 > ### Antes de la hora del almuerzo nos reencontramos `r emo::ji("+1")`
 > #### Resumimos experiencias grupales
-> - Qué enfoques de reproducibilidad encontraron los trabajos.
-> - ¿Algo en particular que le guste hasta ahora?
+> - ¿Algo en particular que te guste hasta ahora?
 > - ¿Estan teniendo alguna dificultad?
 
 ---
@@ -701,11 +678,18 @@ class: inverse
 
 ## 12:00 - 12:15 `r emo::ji("speech_balloon")` Nos reagrupamos en la sala principal 
 
-### 
-
 ***
 
-### Comentarios de experiencias 
+### Comentarios de experiencias 🎤
+
+---
+
+class: inverse, center, middle
+
+## `r emo::ji("loudspeaker")` Juan Cruz Rodríguez  
+
+> ### *Contribuyendo al código libre en R*
+
 
 ---
 class: inverse
@@ -714,23 +698,14 @@ class: inverse
 
 Siéntase libre de desconectar o pasar el rato en la *sala principal* o *café.*
 
-### Vuelve para la segunda charla a las 13:30
-
-
-
----
-class: inverse, center, middle
-
-## `r emo::ji("loudspeaker")` Juan Cruz Rodríguez  
-
-> ### *"Contribuyendo al código libre en R"*
+### Vuelve para la segunda charla a las 13:30 hs UTC-3
 
 
 ---
 
 class: inverse, center, middle
 
-## `r emo::ji("loudspeaker")` Francisco Rodriguez-Sanchez  
+## `r emo::ji("loudspeaker")` Francisco Rodríguez-Sánchez  
 > ### *Cómo escribir manuscritos reproducibles*
 
 
@@ -741,7 +716,10 @@ class: inverse
 ### (break-out rooms) 
 
 ### 14:45 - 15:00 COFFEE BREAK `r emo::ji("house")``r emo::ji("coffee")`
-Trabaja tratando de reproducir un artículo. Siéntase libre de discutir artículos y solucionar problemas de manera colaborativa. Busque ayuda fuera del grupo a través del chat principal. Siéntase libre de cambiar de grupo o pasar el rato en la * sala * principal * o * café. *
+👉 Puedes elegir una sala y trabajar en grupo. 
+👉 Buscar ayuda en el chat principal. 
+👉 Siéntase libre de cambiar de grupo o pasar el rato en la **sala principal** o **cafetería**
+
 
 > ### Antes del reagrupamiento final `r emo::ji("+1")`
 > #### Completa el formulario de comentarios del autor `r emo::ji("writing_hand")`
@@ -749,6 +727,7 @@ Trabaja tratando de reproducir un artículo. Siéntase libre de discutir artícu
 > - Resumir experiencias finales del grupo en el Etherpad
 
 ---
+
 class: inverse, center, middle
 
 ## 16:00 - 16:30 Final regroup `r emo::ji("speech_balloon")`
@@ -757,11 +736,9 @@ class: inverse, center, middle
 
 - Comentarios finales.
 
-
 - Etherpad **Comentarios**
    + Una cosa que te gustó
    + Una cosa que se puede mejorar.
-
 
 ---
 
@@ -799,7 +776,7 @@ class: inverse, center, middle
 
 ## 🎥 Miguel Alvarez  
 
-## La travesía de taxlist en ROpenSci  
+## La travesía de `taxlist` en ROpenSci  
 
 
 
@@ -815,7 +792,7 @@ class: inverse, center, middle
 ---
 class: inverse, center, middle
 
-# Recursos
+# Recursos ✨
 
 ---
 
@@ -834,20 +811,9 @@ class: inverse, center, middle
 
 ---
 
-## Recursos (en español)
+## ¿Disfrutaste la hackatón? 💯
 
-- [** Compendio de ejemplo **](https://github.com/annakrystalli/rrcompendiumDTB): compendio de Demo Research.
-  
-- [** Compendio de ejemplo **](https://github.com/annakrystalli/rrcompendiumDTB): compendio de Demo Research.
-
-  - [** Compendio de ejemplo **](https://github.com/annakrystalli/rrcompendiumDTB): compendio de Demo Research.
-
-
----
-
-## ¿Disfrutaste la hackatón?
-
-# ¡Involucrate!
+# ¡Involucrate! 🙌
 
 
 ### [reprohack / reprohack-hq](https://github.com/reprohack/reprohack-hq) repositorio de GH
@@ -860,8 +826,8 @@ class: inverse, center, middle
 [! [Slack](https://img.shields.io/badge/slack-join%20us-brightgreen)] (https://reprohack-autoinvite.herokuapp.com/)
 
 
-### ¡Organiza tu propio evento!
-### ¡Envía tus propios artículos!
+### ¡Organiza tu propio evento! 😊
+### ¡Envía tus propios artículos! 📝
 
 ---
 ## ¡Muchas formas de participar en la hackatón ReproHack!
