@@ -525,7 +525,7 @@ knitr::include_graphics("https://25.media.tumblr.com/30906cccedfe97a3d5450a23359
 
 .pull-right[
 
-### Usuario con experiencia
+### Usuario/a con experiencia
 
 ```{r, echo=FALSE, out.width="80%"}
 knitr::include_graphics("https://media.giphy.com/media/9K2nFglCAQClO/source.gif")
@@ -548,7 +548,7 @@ knitr::include_graphics("https://media.giphy.com/media/9K2nFglCAQClO/source.gif"
 
 
 #### ¿Qué te pareció confuso/difícil?
-> Identificar puntos de presión. ¿Sugerencias constructivas?
+> Identificar conflictivos. ¿Sugerencias constructivas?
 
 
 
@@ -603,7 +603,7 @@ class: inverse, center, middle
 
 - Intente realizar análisis adicionales.
 
-- Crear nuevas parcelas.
+- Crear nuevos gráficos.
 
 - ¡Combine materiales con los suyos propios o con otros materiales abiertos disponibles en la web!
 
@@ -769,6 +769,17 @@ class: inverse, center, middle
 ## 🎥 Maëlle Salmon  
 
 ## Revisar paquetes para una mejor ciencia 
+
+
+---
+
+class: center, middle, inverse
+
+```{r, echo = FALSE}
+knitr::include_graphics("assets/keynote.png")
+```
+
+
 
 
 ---
