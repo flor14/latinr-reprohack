@@ -10,6 +10,7 @@
 
 #### :date: **8 de octubre de 2020** - :alarm\_clock: **10:00am-17:00pm UTC-3** - :round\_pushpin: **Evento online** - :earth\_africa: **LatinR 2020**
 
+Puedes leer sobre este evento en el blog de [LatinR2020](https://latin-r.com/blog/reprohack-en)
 -----
 
 Muchos autores realizan el esfuerzo de **dejar sus artículos reproducibles mediante la publicación de código y datos asociados**. Sabemos lo desafiante que puede ser, por eso **queremos mostrar el valor de la práctica** y brindar una experiencia de aprendizaje para quienes intentan reproducir el artículo científico en cuestión.
